@@ -147,11 +147,11 @@
   "fall_Fri6": "Mẹ tôi chọn vẽ tranh như một thú vui cách đây vài năm.$0#$b#Bà ấy đã phát triển rất nhiều với tư cách là một nghệ sĩ.$3#$b#Nó thực sự cho thấy rằng bà ấy rất hoàn hảo.$1#$e#Chỉ cần nhìn vào bạn đã học được bao nhiêu từ khi bắt đầu làm nông nghiệp!$1#$e#Tôi hy vọng bạn có một ngày tuyệt vời, @.$3",
   "fall_Fri8":  "Bạn có ... nghĩ rằng bạn có thể dạy tôi một trong những kỹ năng của bạn, @?$0#$e#Oh,không có gì đặc biệt, nhưng tôi nhìn mẹ tôi học các kỹ năng mới khiến tôi ghen tị.$0#$e#Tôi thể thử một thứ gì đó.$0",
   "fall_Sat": "Anh chàng vô gia cư sống trong căn lều trên núi trông khá quen với mẹ tôi.$0#$e#Bà ấy cho rằng bà ấy đã tường thấy ông ta ở một nơi nào khác trước đây. Kỳ lạ, đúng?(có khi nào là chủ tịch giả vờ)$0",
-  "fall_Sat4": "I saw Linus walking around Pelican Town last night. I felt bad , so I offered him 1,000G.$2#$b#He... turned it down. Said he didn't need it because the valley gives him everything he needs.$0#$e#I guess I'm just... not sure what he meant by that.$6",
-  "fall_Sat8": "If you're up for learning something new, just let me know!$1",
-  "fall_Sun": "I'm reading a book called 'Legends of the Dwarves'. It's about several dwarvish mountain ranges and advanced ancient technology.$3#$b#One of those mountains is here in Stardew Valley, Corneal Mountain!$1",
-  "fall_Sun6": "*sigh* I have chores to do today. I'm not looking forward to it.$2",
-  "fall_Sun8": "Hey, @! How's work going on %farm Farm?$3#$e#That's good to hear!$1", 
+  "fall_Sat4": "Tôi đã thấy Linus đi dạo quanh Thị trấn Pelican vào đêm qua. Tôi cảm thấy tồi tệ, vì vậy tôi đã đề nghị ông ta 1,000G.$2#$b#Ông ấy ... từ chối nó. ông ấy nói rằng ông ấy không cần nó vì thung lũng cho ông ấy mọi thứ ông ấy cần.$0#$e#Tôi đoán tôi chỉ ... không chắc ông ấy muốn nói gì về điều đó.$6",
+  "fall_Sat8": "Nếu bạn muốn học một thứ gì đó mới, hãy cho tôi biết!$1",
+  "fall_Sun": "Tôi đang đọc một cuốn sách có tên là 'Legends of the Dwarves(truyền thuyến của người lùn)'. Nó nói về nhưng day núi và những cống nghệ cổ đại tiên tiến.$3#$b#Một trong những ngọn núi đó có ở Thung lũng Stardew, đó là núi Corneal!$1",
+  "fall_Sun6": "*sigh* Tôi có việc phải làm hôm nay. tôi không mong đợi nó về nó cho lắm.$2",
+  "fall_Sun8": "Hey, @! Công việc ở nông trại %farm diễn ra như thế nào?$3#$e#Thật tuyệt khi nghe điều đó!$1", 
 
   //WINTER DIALOGUE    
   "winter_1": "That was quite the snowstorm we had last night. I can't see a single blade of grass anywhere.$6#$e#Be sure to bundle up and stay warm, @.$3",

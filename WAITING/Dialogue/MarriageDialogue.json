@@ -2,9 +2,9 @@
   //SPECIAL DIALOGUE
   "patio_Victor": "Hôm nay thật là một ngày đẹp trời.$1",
   "spouseRoom_Victor": "Chào em yêu. Anh vừa mượn vài cuốn sách từ thư viện. Truyền thuyết về yểu tinh và người lùng luộn thât cuốn hút$1#$e#I love you!$4",
-  "funReturn_Victor": "Hey! Ngày hôm nay của em như thế nào?$1#$b#I had a refreshing walk around the farm and through town. My mother says hello, by the way! She's hoping you'll stop by.$3",
-  "funLeave_Victor": "I'm running errands today. Is there anything I can pick up for you?$1",
-  "OneKid_0": "Do you think %kid1 will grow up to be a farmer like you?$1#$e#I'd love to keep %farm Farm in our family.$3",
+  "funReturn_Victor": "Hey! Ngày hôm nay của em như thế nào?$1#$b#Anh đã có một chuyến đi dạo xung quanh nông trại vào thị trấn nó thật sảng khoái. Mẹ anh có gửi lời chào, mà nhây đây! Bà hy vọng rằng em sẽ có thể ghé qua đấy vài lần.$3",
+  "funLeave_Victor": "Anh đang làm một số việc rặt vặt của ngày hôm nay. Anh có thể giúp gì cho em không ?$1",
+  "OneKid_0": "Em có nghĩ rằng sau khi %kid1 lớn lên sẽ trở thành môt người nông dân như em không?$1#$e#I'd love to keep %farm Farm in our family.$3",
   "OneKid_1": "Watching %kid1 play this morning made me so happy.$3#$e#It just makes me feel like everything I've done in my life has led up to this moment.$1#$b#We are actually starting a family, @. Together.$4#$e#I love you so much, and nothing will ever change that.$4",
   "OneKid_2": "I picked up more baby food at Pierre's the other day, honey.$3#$e#You don't need to worry about it! Go on with your activities.$1#$e#I have everything handled here!$1",
   "OneKid_3": "My mother wants to visit soon to see %kid1. Is that all right?$3#$e#I'm happy you're okay with my mother visiting. I'll let her know!$1",

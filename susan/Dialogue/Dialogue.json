@@ -1,26 +1,26 @@
-﻿
+
 {
 //SPECIAL DIALOGUE
-"Introduction": "I'm thankful Joja cleared the rockslide. Lewis and I went through so much trouble getting them to remove the rocks.$2#$b#Joja refuses to apologize...$3#$e#I'll see you again soon, dear. I'm happy to have finally met you!$1#$b#It's lovely having another farmer in the valley.$4",
-"Resort_Entering": "I don't usually travel with others in our community. This is fun already!$1",
-"Resort_Leaving": "This was a very eventful day!$4",
+"Introduction": "Cố rất cẩm ơn Joja khi đã phá được những tảng đán lở đó. Lewis và cô khá là khó khắn để có thể nhờ họ phá tản đá đó đi.$2#$b#Joja luôn từ chối...$3#$e#Hẹn gặp lại cháu sau. Cô rất vui khi đã được gặp cháu$1#$b#Cô rất vui khi có thêm một người nông dân trong thung lũng.$4",
+"Resort_Entering": "Cô không thường đi chơi cùng với những người trong làng. Điều nãy đã rất vui rồi!$1",
+"Resort_Leaving": "Hôm nay thật là một ngày sôi động!$4",
 "Resort_Shore": "%Susan is taking in the view.",
-"Resort_Chair": "With weather like this, I bet you could grow tropical crops here with ease.$0",
-"Resort_Bar": "I'm craving something fruity.$0",
-"Resort": "I'm tempted to take an island flower back home with me.$1#$e#No, no, no... I can't separate it from its friends.$2",
+"Resort_Chair": "Với thời tiết như thế này, cô cá là con có thể trồng cây nhiệt đới vào mùa này một cách dễ dàng.$0",
+"Resort_Bar": "Cô đang muốn ăn một món trái cây gì đó.$0",
+"Resort": "Cô thật sự đang bị cám dổ để lấy một bông hoa trên đảo trở về nhà.$1#$e#Không, không, không... Cô không thể tách nó khỏi bạn bè của nó.$2",
 
 
 //SPECIFIC TILE DIALOGUE
-"Custom_SusanHouse_4_15": "I'm thankful Joja cleared the rockslide. Lewis and I went through so much trouble getting them to remove the rocks.$2#$b#Joja refuses to apologize...$3#$e#I'll see you again soon, dear. I'm happy to have finally met you!$1#$b#It's lovely having another farmer in the valley.$4",
-"Custom_SusanHouse_24_6": "Excuse me. I'm sleeping.$2",
-"SeedShop_14_20": "Wonderful to see you, @! Buying seeds from Pierre today?$0",
-"ArchaeologyHouse_16_5": "The library has a few crafting manuals I often reference. They're very helpful.$1",
-"Custom_SusanHouse_3_16": "Okay, Sophia! Watch closely!$0",
-"Custom_SusanHouse_9_17": "Come back soon, sweetie!$0",
+"Custom_SusanHouse_4_15": "Cô rất biết ơn Joja khi cuối cùng họ cũng phá huỷ những tản đá lở đó. Lewis và cô rất vất vả để có thể thuyết phục họ phá hủy tảng đá đó đi.$2#$b#Joja luôn từ chối về việc đó...$3#$e#Gặp lại cháu sau. Cố rất vui khi có thể gặp cháu!$1#$b#Thật vui khi thung lũng lại có thêm một nông dân.$4",
+"Custom_SusanHouse_24_6": "Xin lỗi, nhưng cô đang ngủ.$2",
+"SeedShop_14_20": "Thậy tuyệt khi gặp được cháu, @! Hôm nay cháu có mua hạt giống từ của hàng Pierre không?$0",
+"ArchaeologyHouse_16_5": "Ở thư viện thường có các hưỡng dân thủ công mà cô hay tham khảo. Chúng rất hữu ích.$1",
+"Custom_SusanHouse_3_16": "Okay, Sophia! Hay xem thật kĩ!$0",
+"Custom_SusanHouse_9_17": "Lại đây nào con trai, thật là đáng yêu!$0",
 
 //SPRING AND GENERAL DIALOGUE
-"spring_1": "Ah! The beginning of spring, my favorite season. It's lovely seeing the flowers.$1#$e#Good luck farming this year!$0",
-"spring_12": "I helped Marnie and Emily paint the eggs for the Egg Festival tomorrow.$0#$e#Jas and Vincent helped too! They're absolute sweethearts!$1",
+"spring_1": "Ah! Mùa xuân đang đên, nó là mùa mà cô yêu thích nhất. Trông những bông hoa thật xinh đẹp làm sao.$1#$e#Chúc cháu có một ngày thuận lợi!$0",
+"spring_12": "Cô đã giúp Marnie và Emily vẽ những quả trứng cho lễ hội ngày mai.$0#$e#Jas và Vincent cũng đã giúp chúng tôi! Họ đú là một cặp đôi tuyệt đối!$1",
 "spring_23": "We're heading south of Cindersap Forest tomorrow for the Flower Dance Festival. Will you be joining?$0#$e#Gus is making most of the food!$1",
 "spring_28": "I've already planned which crops I'll be growing this summer.$0#$e#I'm sure you've done the same.$4",
 

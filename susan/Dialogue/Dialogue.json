@@ -1,10 +1,10 @@
 
 {
 //SPECIAL DIALOGUE
-"Introduction": "Cố rất cẩm ơn Joja khi đã phá được những tảng đán lở đó. Lewis và cô khá là khó khắn để có thể nhờ họ phá tản đá đó đi.$2#$b#Joja luôn từ chối...$3#$e#Hẹn gặp lại cháu sau. Cô rất vui khi đã được gặp cháu$1#$b#Cô rất vui khi có thêm một người nông dân trong thung lũng.$4",
-"Resort_Entering": "Cô không thường đi chơi cùng với những người trong làng. Điều nãy đã rất vui rồi!$1",
+"Introduction": "Cố rất cẩm ơn Joja khi đã phá được những tảng đán lở đó. Lewis và cô khá là khó khắn để có thể nhờ họ phá tản đá đó đi.$2#$b# Nhưng Joja luôn từ chối...$3#$e#Hẹn gặp lại cháu sau. Cô rất vui khi đã được gặp cháu$1#$b#Cô rất vui khi có thêm một người nông dân trong thung lũng.$4",
+"Resort_Entering": "Cô không thường đi chơi cùng với những người trong làng. Bao nhiêu đó cũng đã rất vui rồi!$1",
 "Resort_Leaving": "Hôm nay thật là một ngày sôi động!$4",
-"Resort_Shore": "%Susan is taking in the view.",
+"Resort_Shore": "%Susan đang hướng về phía biển.",
 "Resort_Chair": "Với thời tiết như thế này, cô cá là con có thể trồng cây nhiệt đới vào mùa này một cách dễ dàng.$0",
 "Resort_Bar": "Cô đang muốn ăn một món trái cây gì đó.$0",
 "Resort": "Cô thật sự đang bị cám dổ để lấy một bông hoa trên đảo trở về nhà.$1#$e#Không, không, không... Cô không thể tách nó khỏi bạn bè của nó.$2",

@@ -1,6 +1,6 @@
 //Susan's special order strings
 2986: "Susan_Name": "Phấn bón tại làm nhà",
-2987: "Susan_Text": "Cô đang đi chợ để mua một số loại phân bón cao cấp. Bé cưng của cô cần các chất dinh dưỡng bổ sung!",
+2987: "Susan_Text": "Cô đang đi chợ để mua một số loại phân bón cao cấp. Bé cưng của cô đang cần bổ sung thêm dinh dưỡng bổ sung!",
 2988: "Susan_Objective_0_Text": "Chế tạo 50 hộp phân bón cao cấp.",
 2989: "Susan_Objective_1_Text": "Để tất cả vào thùng đồ của susan.",
 

@@ -1,10 +1,10 @@
 ﻿
 {
   //SPECIAL DIALOGUE
-  "Introduction": "Oh my, aren't you a cutie! Welcome to the valley, dear.$6#$b#It's so exciting when someone new moves in!$1#$e#Have you met my son, Victor?$3",
-  "divorced": "You got what you wanted, so leave me alone.$5",
-  "danceRejection": "You wish to dance with me? Dear, I'm afraid I will have to decline.$6",
-  "secondChance_Girls": "...Revive things, @?$6#$b#Sweetie...I've worked hard to get past what you did to me. Marriage is...even more important to me than to most people. You know that.$2#$b#...I'm willing to try again, but this is the last time.$3#$b#I do love you, sweetie. I hope I'm not making a mistake trusting you again.$2",
+  "Introduction": "Ôi trời, cháu không phải là người dễ thương tí nào! Chào mừng đã đến với nời này.$6#$b#Thật thú vị khi ai đó mới chuyển đến!$1#$e#Cháu đã gặp con trai cô chưa ?$3",
+  "divorced": "Anh đã có những gì mình muốn, và giờ hãy để em yên.$5",
+  "danceRejection": "Cháu muốn khiêu vũ với cô? Cháu thân mến à, cô sợ là mình sẽ phải từ chối rồi.$6",
+  "secondChance_Girls": "...Hàn gắn lại mọi thứ, @?$6#$b#Anh yêu ... Em đã làm việc rất chăm chỉ để quên đi những gì anh đã làm với mình.Đối với em, hôn nhân còn quan trọng hơn hầu hết tất mọi người. Anh có biết rằng.$2#$b#...Em đã sẵn sàng, nhưng đây sẽ là lần cuối cùng.$3#$b#Em yêu anh, anh yêu. Em hy vọng mình sẽ không mắc sai lầm khi tin tưởng anh thêm một lần nữa.$2",
   "dumped_Girls": "Do you really have the audacity to be talking to me right now, @?$5#$b#I need some time after the way you treated me. And a drink.$2",
   "breakUp": "I knew this was a bad idea from the start.$2#$b#Thank you for being up front about your feelings.$0#$e#...$2",
   "stardrop_gift": "@. I put a special order in for this Stardrop fruit for you.$4#$b#It's as fresh as they come. I hope you enjoy it, sweetie. May it make your work a little easier.$3",

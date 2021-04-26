@@ -1,6 +1,6 @@
 {
   //SPECIAL DIALOGUE
-  "patio_Claire": "What a lovely view of the farm. The weather today is perfect.$1",
+  "patio_Claire": "Thật là một khung cảnh thật tuyệt của trang trại. Thời tiết hôm nay thật hoàn hảo.$1",
   "spouseRoom_Claire": "Mmm... what's on the agenda today?$1#$e#My schedule is always busy... it's nice to be organized, though. Otherwise I'd forget things.$5",
   "funReturn_Claire": "Work was exhausting today... but I did talk to some interesting people.$0",
   "funLeave_Claire": "Good morning, dear.$1",

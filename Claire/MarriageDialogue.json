@@ -1,17 +1,17 @@
 {
   //SPECIAL DIALOGUE
   "patio_Claire": "Thật là một khung cảnh thật tuyệt của trang trại. Thời tiết hôm nay thật hoàn hảo.$1",
-  "spouseRoom_Claire": "Mmm... what's on the agenda today?$1#$e#My schedule is always busy... it's nice to be organized, though. Otherwise I'd forget things.$5",
-  "funReturn_Claire": "Work was exhausting today... but I did talk to some interesting people.$0",
-  "funLeave_Claire": "Good morning, dear.$1",
-  "OneKid_0": "I envy %kid1. Growing up on %farm farm would make for an incredible childhood.$1",
-  "OneKid_1": "%kid1 made a bit of a mess in the living room...$2#$e#Don't worry. I'll take care of it.$1",
-  "OneKid_2": "%kid1 has your eyes...$1#$e#Hehe...$7",
-  "OneKid_3": "I don't think anyone is ever ready to be a parent... but we're doing a good job.$1#$e#%kid1 loves being carried around the house.$5",
-  "TwoKids_0": "I fed %kid1 and %kid2 their organic apple yogurt. They eat so much!$1",
-  "TwoKids_1": "Our children are so wonderful... it's our responsibility to raise them the right way.$1",
-  "TwoKids_2": "We're fortunate %kid1 and %kid2 are healthy.$1",
-  "TwoKids_3": "%kid1 started walking at such an early age... maybe they'll become a dancer like their mother?$1#$e#%You hug Claire.#$e#Hehe...$7",
+  "spouseRoom_Claire": "Mmm...Không biết sổ ghi chú hôm nay có gì?$1#$e#Lịch trình của em luôn bận rộn ... mặc dù vậy, thật tuyệt khi được sắp xếp. Nếu không, em sẽ quên mọi thứ.$5",
+  "funReturn_Claire": "Hôm nay làm việc thật mệt mỏi ... nhưng em đã nói chuyện với một số người thú vị.$0",
+  "funLeave_Claire": "Buổi sáng tốt lành, anh yêu.$1",
+  "OneKid_0": "Em thật ghen tị với %kid1. Lớn lên trong trang trại %farm sẽ tạo nên một tuổi thơ đáng nhớ.$1",
+  "OneKid_1": "%kid1 đã làm một chút lộn xộn trong phòng khách...$2#$e#Đừng lo lắng. em sẽ chăm sóc nó.$1",
+  "OneKid_2": "%kid1 có đôi mắt rất giống anh...$1#$e#Hehe...$7",
+  "OneKid_3": "Em không nghĩ có ai sẵn sàng làm cha mẹ cả ... nhưng chúng ta đang làm rất tốt.$1#$e#%kid1 rất thích được bế đi khắp nhà.$5",
+  "TwoKids_0": "Em đã cho %kid1 và %kid2 ăn sữa chua táo hữu cơ. Mấy đứa bé ăn rất nhiều!$1",
+  "TwoKids_1": "Con cái của chúng ta thật tuyệt vời ... trách nhiệm của chúng ta là phải nuôi dạy chúng đúng cách.$1",
+  "TwoKids_2": "Chúng ta may mắn khi mà %kid1 và %kid2 đều khỏe mạnh.$1",
+  "TwoKids_3": "%kid1 đã bắt đầu bước đi từ khi còn rất sớm ... có lẽ bọn trẻ sẽ trở thành một vũ công như mẹ của chúng ?$1#$e#%You ôm Claire.#$e#Hehe...$7",
  
   //SEASONAL DIALOGUE
   "spring_Claire": "I drank a cup of green tea this morning. I feel much more energetic.$5",

@@ -1,2 +1,21 @@
+ //Claire's Gift Tastes
+13315 : "Claire": "Oh! Chị rất thích nó. Cảm ơn em rất nhiều!/614 349 421 618 634 560/Cảm ơn em./613 635 636 637 638 88 90 607 815 408 395/Chỉ khi em nhấn mạnh.../396 16 152 153 218 219 226 296 309 310 311 283 346 459 303 304/Làm ơn ... mang nó đi./167 342 412 416 330 372 723 722 721 720 718 717 716 715 233/Oh, cho chị ? Cảm ơn em./394 393 392 406 410 414/"
 
-dấdasdasfdsjfsdfksdf sdfhsdf sdhf bhf vgfhasgasjd
+
+//Claire's Marriage Dialogue
+
+13556 : "Utility.cs.5367": "Khi @ lần đầu tiên đến Thị trấn Pelican, không ai biết liệu anh ấy có hòa nhập với cộng đồng của chúng tôi không...#$b#Nhưng kể từ ngày này trở đi, @ sẽ là một phần của thị trấn này giống như bất kỳ ai trong chúng ta!$h#$b#Đó là vinh dự lớn của chị vào ngày này {0} của {1}, hợp nhất @ và Claire trong mối ràng buộc của hôn nhân.",
+
+13557 :"Utility.cs.5369": "Khi @ lần đầu tiên đến Thị trấn Pelican, không ai biết liệu em ấy có hòa nhập với cộng đồng của chúng tôi không...#$b#Nhưng kể từ ngày này trở đi, @ sẽ là một phần của thị trấn này giống như bất kỳ ai trong chúng ta!$h#$b#Đó là vinh dự lớn của chị vào ngày này {0} của {1}, hợp nhất @ và Claire trong mối ràng buộc của hôn nhâ.",
+
+13558 : "Utility.cs.5371": "@... Claire... #$b# Với tư cách là thị trưởng của Thị trấn Pelican, và là người mang con dấu hôn nhân trong khu vực, bây giờ ta xin tuyên bố các chãu đã là vợ chồng!$h",
+
+13559 : "Utility.cs.5377": "@... Claire... #$b# Với tư cách là thị trưởng của Thị trấn Pelican, và là người mang con dấu hôn nhân trong khu vực, bây giờ ta tuyên bố  cháu đã là vợ và ..., tốt, vợ!$h",
+
+//Claire's Movie Theater dialogue patches
+
+13572 : "Mon8": "Này @. Đây là một vé xem phim miễn phí![809]$6#$e#Các bộ phim trong tuần này thật đáng kinh ngạc.$1",
+
+13573 : "Thu4": "Chị chưa bao giờ làm việc ở đâu tốt như rạp chiếu phim.$1#$e#Tôi mong được nhìn thấy những chú chim hàng ngày!$5",
+
+13574: "Sat8": "Có một gia đình giẻ cùi xanh làm tổ trên cây gần rạp chiếu phim.$1#$e#Chim là những sinh vật hùng vĩ, em có nghĩ thế không?$5",

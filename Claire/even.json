@@ -19,3 +19,69 @@
 13573 : "Thu4": "Chị chưa bao giờ làm việc ở đâu tốt như rạp chiếu phim.$1#$e#Tôi mong được nhìn thấy những chú chim hàng ngày!$5",
 
 13574: "Sat8": "Có một gia đình giẻ cùi xanh làm tổ trên cây gần rạp chiếu phim.$1#$e#Chim là những sinh vật hùng vĩ, em có nghĩ thế không?$5",
+
+13575 : "summer_1": "Chị rất vui vì đó là mùa hè...$1",
+
+13576 : "summer_10": "Máy lạnh ở rạp hát thật sự rất tốt.$0",
+
+13577 : "summer_Wed4": "Chị có thể giới thiệu một số bộ phim em nên xem...$1",
+
+13578 : "fall_Tue4": "Những chiếc lá tiếp tục tìm đường vào rạp và chị phải quét chúng...$0#$e#Đôi khi chị cũng được những  chú chim giúp đỡ.$1",
+
+13579 : "winter_Sun4": "Không có nhiều công việc ở nơi chị sống. Khi ở đây được mở ở rạp chiếu phim, chị đã nhận nó!$1#$e#Thật vui khi làm việc ở đó...$1",
+
+//Claire's Engagement Dialogue
+
+13588 : "Claire0": "Đây là sự khởi đầu tuyệt vời...$4",
+
+13589 : "Claire1": "Đây là sự khởi đầu của một điều tuyệt vời...$4"
+
+//Claire's Marriage Schedule Dialogue
+
+13610 : "funReturn_Claire": "Hôm nay làm việc thật mệt mỏi ... nhưng em đã nói chuyện với một số người thú vị.",
+
+13602 : "funLeave_Claire": "Chúc mừng năm mới. Em có cảm giác năm nay sẽ rất sôi động...$1"
+
+13610 : "funReturn_Claire": "Ngày hôm nay của anh như thế nào ?$1",
+
+13611 : "funLeave_Claire": "Buổi sáng tốt lành. Em dậy sớm và đã pha cà phê cho anh. [395]$1"
+
+13619 : "funReturn_Claire": "Em đã gặp một số người thú vị tại nơi làm việc. Ai đó đã đi du lịch từ thành phố Zuzu!$5",
+
+13620 : "funLeave_Claire": "Em phải sẽ đi làm sớm. Anh sẽ làm gì hôm nay ?$1"
+
+13628 : "funReturn_Claire": "Da em hơi nhợt nhạt ... một chút nắng sẽ giúp chúng đỡ hơn.$1",
+
+13629 : "funLeave_Claire": "Lịch trình hôm nay của Anh như thế nào ?$1#$e#Nghe thú vị đấy!$5"
+
+13637 : "funReturn_Claire": "Chào mừng anh về nhà! Ngày của anh thế nào ?$1",
+
+13638 : "funLeave_Claire": "Mùi của bữa sáng đã đánh thức anh à ? Chà, đào sâu! [201 195 194 210 211]$5#$e#Em đã làm nó theo cách anh thích...$1"
+
+13646 : "funReturn_Claire": "Anh để ý đến em. Nó rất đáng khích lệ...$1",
+
+13647 : "funLeave_Claire": "Buổi sáng tốt lành. Anh xoay sở để lăn ra khỏi giường...$1#$e#Em có việc hôm nay. Ghé thăm em nếu anh có thời gian!$6"
+
+13655 : "funReturn_Claire": "Lấy làm tiếc. Em hơi đổ mồ hôi từ lớp thể dục nhịp điệu...$2#$e#Em cần đi tắm.$1",
+
+13656 : "funLeave_Claire": "Em có lớp học thể dục nhịp điệu hôm nay. Có một đoạn nhảy mà em đang  phải luyện tập.!$1"
+
+13664 : "funReturn_Claire": "Hello anh yêu. Chào mừng trở lại.$1#$e#Oh, em sao ? Ngày của em thật vui.$5",
+
+13665 : "funLeave_Claire": "Em sẽ đi làm sớm. Anh sẽ làm gì hôm nay ?$0"
+
+13673 : "funReturn_Claire": "Em đã rửa bát và quét nhà trong khi anh đi chơi.$1#$e#Em đã có một ngày làm việc khá tốt !$5",
+
+13674 : "funLeave_Claire": "Em có cảm giác điều gì đó tốt đẹp sẽ xảy ra hôm nay.$1#$e#Chà, em sắp đi làm rồi. Anh cần gì từ cửa hàng không ?$0"
+
+13682 : "funReturn_Claire": "Anh biết đấy, em chưa bao giờ tưởng tượng mình sẽ chuyển đến Thung lũng Stardew. Đây có phải là định mệnh ?$1",
+
+13683 : "funLeave_Claire": "Buổi sáng tốt lành. EM có pha cà phê cho chúng ta. [395]$1"
+
+13691 : "funReturn_Claire": "Có lẽ em sẽ lấy hết can đảm và làm quen với một số người trong thị trấn.$1",
+
+13692 : "funLeave_Claire": "*yawn*...$0#$b#Hôm nay em mệt...$2#$e#%You ôm lấy Claire.#$e#...$5"
+
+13700 : "funReturn_Claire": "Em đã thèm ăn bruschetta cả ngày rồi.$0#$e#Thành thật? Em nghĩ rằng mình có thể ăn nó mãi mãi.$5"
+
+13701 : "funLeave_Claire": "Thời tiết đang trở nên ấm hơn!$6"

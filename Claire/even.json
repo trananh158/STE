@@ -102,3 +102,30 @@
 
 13737 : "funLeave_Claire": "Em đã pha một ít cà phê cho chúng ta. [395]$1#$e#%You nói với Claire để có một ngày làm việc vui vẻ.#$e#Hehe... anh cũng có một ngày tốt đẹp, anh yêu.$5"
 
+13745 : "funReturn_Claire": "Oh. Anh có ngửi thấy một mùi hương ngọt ngào không ? Nó đến từ cái này...[220 221 222 223 234 611 612 608]$1#$e#Trông vẻ mặt của anh kìa... Hehe!$7",
+
+13746 :  "funLeave_Claire": "Chúng ta sẽ sống trong thung lũng mãi mãi ?$1#$e#Em xin lỗi. Đó là một câu hỏi kỳ lạ để hỏi.$0#$e#%You mỉm cười với Claire.#$e#...$5"
+
+13754 : "funReturn_Claire": "Em đã khám phá ra một bản nhạc cổ điển tuyệt vời mà chúng ta có thể nhảy cùng nhau.$1#$e#Nó trở nên dễ dàng hơn khi anh bắt nhịp với nhịp điệu.$5",
+
+13755 : "funLeave_Claire": "Đầu giường của anh thật đáng yêu...^ Đầu giường của em thật đáng yêu....$4"
+
+13763 : "funReturn_Claire": "Chào buổi tối, anh yêu. Ngày của anh thế nào ?^Chào buổi tối, em yêu. Ngày của em thế nào$1",
+
+13764 : "funLeave_Claire": "Thời tiết cuối cùng cũng trở nên ấm hơn.$1"
+
+13772 : "funReturn_Claire": "Em đã có một ngày tuyệt vời hôm nay...^Chị đã có một ngày tuyệt vời hôm nay...$1",
+
+13773 : "funLeave_Claire": "Em đã sẵn sàng cho thời tiết nóng bức, bầu trời xanh hoàn hảo và bánh nướng mơ !$5#$e#Em sẽ làm những gì mình có thể giúp xung quanh nhà. Em biết bắt đầu một mùa giải là rất nhiều công việc.$1#$e#Chúc may mắn hôm nay!$6"
+
+13781 : "funReturn_Claire": "Bữa tối đã sẵn sàng! Em hy vọng anh cảm thấy ngon miệng ngày hôm nay! [224 231 214 212 197]$5",
+
+13782 : "funLeave_Claire": "Mặt dây chuyền của nàng tiên cá mà anh tặng em  thật đẹp. Em sẽ luôn trân trọng nó.$1#$e#Em sẽ làm bữa tối tối nay.$1"
+
+13790 : "funReturn_Claire": "Chào mừng anh về nhà! Ngày của anh thế nào ?^ Chào mừng em về nhà! Ngày của em thế nào ?$1",
+
+13791 : "funLeave_Claire": "Em sẽ đi làm sớm. Anh sẽ làm gì hôm nay ?^ Chị sẽ đi làm sớm. Em sẽ làm gì hôm nay ?$1"
+
+13799 : "funReturn_Claire": "Oh, Giờ đã là %time? Ngày trôi qua thật nhanh...$0",
+
+13800 : "funLeave_Claire": "%Clairekhông để ý đến bạn.#$e#Oh! Anh đã đạy rồi! Buổi sáng tốt lành.^Em đã dậy rồi! Buổi sáng tốt lành$1#$e#Em đang chuẩn bị đi làm.^Chị đang chuẩn bị đi làm$0"

@@ -129,3 +129,27 @@
 13799 : "funReturn_Claire": "Oh, Giờ đã là %time? Ngày trôi qua thật nhanh...$0",
 
 13800 : "funLeave_Claire": "%Clairekhông để ý đến bạn.#$e#Oh! Anh đã đạy rồi! Buổi sáng tốt lành.^Em đã dậy rồi! Buổi sáng tốt lành$1#$e#Em đang chuẩn bị đi làm.^Chị đang chuẩn bị đi làm$0"
+
+13808 : "funReturn_Claire": "Em ghen tị với sự khéo léo của anh. Tất cả những máy móc và thiết bị đáng yêu anh đã tạo ra đều là những sáng tạo tuyệt vời.$1",
+
+13809 : "funLeave_Claire": "Emily và em sẽ khiêu vũ cùng nhau hôm nay.$1#$e#Anh đã nghĩ đến việc tham gia lớp thể dục nhịp điệu chưa?$5#$b#Em có thể dạy anh một số điệu...$1"
+
+13817 : "funReturn_Claire": "Em có cảm giác như mình có thể hiểu được động vật đang nghĩ gì khi nhìn chúng ...$1#$b#Không biết có một thầy phù thủy hay thầy phù thủy nào có thể nói chuyện với động vật không ?$0#$e#Anh nói chuyện với thuật sĩ địa phương ... họ có thể hiểu động vật không?$1",
+
+13818 : "funLeave_Claire": "Buổi sáng tốt lành. Em đã pha cà phê cho chúng ta. [395]$1"
+
+13826 : "funReturn_Claire": "Em sẽ thử một công thức mới mà em tìm thấy trên mạng vào lần tới khi nấu bữa tối.$1#$b#Em biết anh sẽ thích nó.$5#$e#Oh? Đúng không?$1#$e#...$4#$e#Oh! Anh thật ngốc!$7",
+
+13827 : "funLeave_Claire": "Người quản lý của em cho biết chúng tôi đang mong đợi một lượng khách hàng ngày hôm nay...$0#$e#Đó sẽ là một ngày bận rộn.$0"
+
+13835 : "funReturn_Claire": "Kể từ khi em còn là một cô bé, em đã muốn trở thành một diễn viên.$1#$e#Anh có cảm thấy như vậy với việc làm nông trại hay thám hiểm không ?$5",
+
+13836 : "funLeave_Claire": "Em nghĩ mình sẽ làm hai món giúp cho bữa sáng. Đây, anh yêu. [201 195 194 210 211]$1"
+
+13844 : "funReturn_Claire": "*yawn* Em rất ..... buồn ngủ.$2#$e#Um. Em sẽ chuẩn bị đi ngủ.$0",
+
+13845 : "funLeave_Claire": "Em ước thời tiết như thế này mãi mãi...$1"
+
+13853 : "funReturn_Claire": "Dành thời gian cho anh chắc chán lắm...$2#$e#Xin lỗi ... em có một số suy nghĩ.$2#$e#%Claire không muốn nói chuyện.",
+
+13854 : "funLeave_Claire": "Buổi sáng tốt lành. Anh xoay sở để lăn ra khỏi giường...$1#$e#Em sắp phải đi làm.$0"

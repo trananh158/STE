@@ -153,3 +153,65 @@
 13853 : "funReturn_Claire": "Dành thời gian cho anh chắc chán lắm...$2#$e#Xin lỗi ... em có một số suy nghĩ.$2#$e#%Claire không muốn nói chuyện.",
 
 13854 : "funLeave_Claire": "Buổi sáng tốt lành. Anh xoay sở để lăn ra khỏi giường...$1#$e#Em sắp phải đi làm.$0"
+
+13862 :  "funReturn_Claire": "Em đã đặt một số thứ trên internet. Nó sẽ đến trong vài ngày.$1#$e#Oh. Nó là gì ư? Anh sẽ cần phải đợi để tìm ra...$1",
+
+13863 : "funLeave_Claire": "Xin lỗi về tâm trạng của em đêm qua. Em sẽ làm cho nó cho anh.$2#$e#%You ôm lấy Claire.#$e#Hehe...$7"
+
+13871 : "funReturn_Claire": "Em đang thèm mơ. Anh có nghĩ rằng chúng ta có thể trồng một ít trong trang trại không ?$1#$e#Em biết một số công thức sử dụng chúng...$5",
+
+13872 : "funLeave_Claire": "Buổi sáng tốt lành. Anh có dậy sớm và pha cà phê. [395]$1"
+
+13880 : "funReturn_Claire": "Ngạc nhiên chứ ! Đây là những gì em đã đặt hàng cho anh.[787]$5#$e#Chà, Anh có thích nó không? Em nhận thấy anh đã sử dụng những thứ này trong đồ thủ công của mình...$1",
+
+13881 : "funLeave_Claire": "Em nghĩ món quà của anh sẽ được gửi đến trong thư hôm nay.$1",
+
+13882 : "summer_22": "Ngạc nhiên chứ! Đây là những gì em có cho anh![787]$5#$e#Chà, anh có thích nó không? Em nhận thấy anh đã sử dụng những thứ này trong đồ thủ công của mình...$1", //accounts for rainy day
+
+13890 : "funReturn_Claire": "Em nhận được tất cả các bài luyện nhảy cần thiết tại lớp thể dục nhịp điệu vào các ngày thứ Ba.$1#$e#Phần yêu thích của em là nói chuyện với mọi người trước và sau đó...$5",
+
+13891 : "funLeave_Claire": "Buổi sáng tốt lành.$1#$e#Chúc may mắn với công việc của anh hôm nay.$5"
+
+13899 : "funReturn_Claire": "Anh có phiền làm bữa tối không? Em cảm thấy kiệt sức vì công việc...$0",
+
+13900 : "funLeave_Claire": "*giggle* Ôi trời. Đầu giường của anh...$5"
+
+13908 : "funReturn_Claire": "Thật vui khi sống với anh. Em ... nghĩ rằng mình sẽ cô đơn suốt cuộc đời.$1#$e#%You ôm lấy Claire.#$e#Hehe!$7",
+
+13909 : "funLeave_Claire": "Chúng ta nên nướng một cái gì đó cùng nhau sớm. Em biết công thức hoàn hảo...$4"
+
+13917 : "funReturn_Claire": "Chế độ ăn của em đã được cải thiện kể từ khi em gặp anh. Em thường ăn các bữa ăn Joja đông lạnh hàng ngày.$1#$e#Em thích nấu những bữa ăn tự làm.$5",
+
+13918 : "funLeave_Claire": "Trời bắt đầu lạnh hơn...$2#$e#Um. Hãy tiếp tục bật lò sưởi. Được chứ?$0"
+
+13926 : "funReturn_Claire": "Nơi này làm em nhớ đến vùng quê. Có rất nhiều chỗ!$1",
+
+13927 : "funLeave_Claire": "Em thích thức dậy vào sáng sớm, lắng nghe tiếng chim bắt đầu ngày mới.$1"
+
+13935 : "funReturn_Claire": "Chúng ta nên cùng nhau hái nấm trong rừng cây tuần lộc.$5#$e#Có một công thức mà em muốn thử đó là gọi nấm...$1",
+
+13936 : "funLeave_Claire": "Sáng nay hơi se lạnh...$2"
+
+13944 : "funReturn_Claire": "Um. Anh có biết ai đó tên là 'Pam' ?#$e#Oh. Cô ấy vừa ... gây ra một số rắc rối trong công việc hôm nay.$2#$e#Em sẽ nói với anh về nó khi trên giường.",
+
+13945 : "funLeave_Claire": "Buổi sáng tốt lành. Em có một tách cà phê ? [395]$1"
+
+13953 : "funReturn_Claire": "Em đánh giá cao đồng nghiệp của mình, Martin. Anh ấy giúp tôi rất nhiều trong công việc.$1#$e#Đôi khi em bắt gặp anh ấy đang liếc nhìn mình...$1",
+
+13954 : "funLeave_Claire": "Trang phục của anh hôm nay trông thật tuyệt...$1"
+
+13962 : "funReturn_Claire": "Anh luôn thêm và thay đổi khung cảnh của trang trại của chúng ta... Em thích nó.$1",
+
+13963 : "funLeave_Claire": "Em không muốn làm việc hôm nay...$2#$e#%You ôm Claire, và khuyến khích cô ấy.#$e#Hehe... cảm ơn.$7"
+
+13971 : "funReturn_Claire": "Hôm nay em đau vì tập thể dục...$2",
+
+13972 : "funLeave_Claire": "Chào buổi sáng anh yêu.$1#$e#Em có lớp học thể dục nhịp điệu hôm nay.$0#$b#Anh có muốn em mua cho anh thứ gì khi em ra ngoài không ?$1"
+
+13980 : "funReturn_Claire": "Em vừa làm xong bữa tối. Em nghĩ chúng ta sẽ ăn thứ gì đó tốt cho sức khỏe tối nay. [196 609 610 200 607 649]$1",
+
+13981 : "funLeave_Claire": "*yawn*...$5#$e#Đó là một cái ngáp lớn.$6#$e#Ừm. Hôm nay vui vẻ nhé...$1"
+
+13989 : "funReturn_Claire": "Em có thể bị ốm...$2#$b#Em đã cảm thấy kinh khủng cả ngày.$2#$e#Em nghĩ mình sẽ thư giãn vào ngày mai...$0",
+
+13990 : "funLeave_Claire": "*Sigh*... Em cảm thấy không khỏe hôm nay.$2#$e#Em có thể đã bắt được một cái gì đó...$2#$e#Em cần phải sẵn sàng cho công việc...$2"

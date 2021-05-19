@@ -300,4 +300,138 @@
 
 14179 : "funLeave_Claire": "Em thích thức dậy vào sáng sớm, lắng nghe tiếng chim bắt đầu ngày mới.$1"
 
+14187 : "funReturn_Claire": "Anh có phiền không nếu em tăng nhiệt độ lên? Em đang cẩm thấy đóng băng...$2",
+
+14188 : "funLeave_Claire": "Chào buổi sáng, thân yêu. Em có pha cho chúng ta một ít cà phê.[395]$1"
+
+14196 : "funReturn_Claire": "Em sẽ thử một công thức mới mà mình tìm thấy trên mạng vào lần tới khi nấu bữa tối.$1#$b#Em biết anh sẽ thích nó.$5#$e#Oh? Đúng không?$1#$e#...$4#$e#Oh! Anh thật ngốc !$7",
+
+14197 : "funLeave_Claire": "Cuối cùng thì anh cũng lăn ra khỏi giường. Buổi sáng tốt lành.$1"
+
+14205 : "funReturn_Claire": "Em đã suýt bị một tảng băng rơi trúng khi đi làm về...$2#$e#Em không sao. Nó chỉ làm em giật mình.$1",
+
+14206 : "funLeave_Claire": "Ooo... Hôm nay anh trông  thật đẹp trai, @. Em thấy anh cạo râu.$4^Ooo... Hôm nay em trông đẹp đấy, @. Chị thích cách em làm tóc của mình.$4"
+
+14214 : "funReturn_Claire": "Bữa tối đã sẵn sàng anh yêu. Willy đã bán những thứ này sáng nay. Chúng rất tươi! [733]$5",
+
+14215 : "funLeave_Claire": "Em sẽ làm một bữa tối lễ hội cho chúng ta tối nay. Một cái gì đó để mong chờ...$1#$e#Um. Chúc may mắn hôm nay.$5"
+
+14223 : "funReturn_Claire": "Tuyết đang bắt đầu tan băng...$1#$e#Em sẵn sàng cho thời tiết ấm hơn.$5",
+
+14224 : "funLeave_Claire": "Hôm nay có gì trên lịch cho anh?$1#$e#Nghe có vẻ vui!$5"
+
+//Adds dialogue for Claire in the theater
+
+14233 : "Claire_TheaterMessage_Monday": "Chào! Em có thể mua gì cho anh không ?$1",
+
+14234 : "Claire_TheaterMessage_Wednesday": "Em được xem phim miễn phí!$1#$b#Đó là đặc quyền khi làm việc ở đây!$5",
+
+14235 : "Claire_TheaterMessage_Thursday": "Hãy cho em biết nếu anh muốn bất kỳ nhượng bộ nào.$1",
+
+14236 : "Claire_TheaterMessage_Friday": "Quản lý ở đây tốt hơn nhiều so với Joja...$5",
+
+14237 : "Claire_TheaterMessage_Sunday": "Động vật hoang dã làm tăng thêm bầu không khí của nhà hát.$1#$b#Thật 'kỳ diệu'!$5"
+
+//Patches marriage dialogue for Claire in the theater - doesn't work Fridays
+
+14247 : "Claire_TheaterMessage_Monday": "Hi anh yêu. Hôm nay anh có xem phim không ?$1",
+
+14248 : "Claire_TheaterMessage_Wednesday": "Đến thăm em tại nơi làm việc ? Hehe!$7",
+
+14249 : "Claire_TheaterMessage_Thursday": "Đừng có biểu hiện tình cảm với em tại nơi làm việc. Em sẽ gặp rắc rối...$1",
+
+14250 : "Claire_TheaterMessage_Sunday": "Anh có nhìn thấy tất cả các loài chim không ? Chúng không tuyệt vời sao?$1"
+
+//MOVIE THEATER
+
+14329 : "Text": "Chị đã xem phim này rồi, nhưng chị không ngại để xem lại.$1"
+
+14334 : "Text": "*thì thầm* Chị thích phần này...$5"
+
+14339: "Text": "Cảm ơn vì đã đưa chị đến đây.$1"
+
+14352 : "Text": "Chị hơi lo lắng khi xem cái này...$2"
+
+14362 : "Text": "Chị không biết mình cảm thấy thế nào về bộ phim đó...$2"
+
+14357 : "Text": "Ai đó nổi tiếng đã tạo ra âm nhạc cho bộ phim này.$1"
+
+14380 : "Text": "*Thì thầm* Wumbus là một nhân vật quyến rũ.$1"
+
+14385 : "Text": "Đó là một bộ phim tuyệt vời!$5"
+
+14398 : "Text": "Chị chưa từng chơi trò chơi điện tử nào trước đây ... nhưng bộ phim này trông rất thú vị.$1"
+
+14403 : "Text": "Chị tự hỏi ai sẽ chiến thắng...$1"
+
+14408 : "Text": "Điều đó thật tuyệt. Có lẽ một lúc nào đó chị sẽ thử trò chơi điện tử ở quán rượu...$4"
+
+14421 : "Text": "Chị có một cảm giác tốt về bộ phim này...$1"
+
+14431 : "Text": "Chị có thể mua kịch bản của bộ phim này để đọc.$1"
+
+14444 : "Text": "Um. Cảm ơn anh đã có lời mời, @.$1"
+
+14450 : "Text": "Thật là vui...$1"
+
+//EGG FESTIVAL
+
+14504 : "Claire": "Những quả trứng quỷ đang hấp dẫn...$1"
+
+14512 : "Claire": "Không phải là một đám mây trên bầu trời. Thời tiết hôm nay thật hoàn hảo.$1#$e#*từng ngụm nước trái cây*$5"
+
+//FLOWER DANCE
+
+14524 : "Claire": "Những bông hoa ở đây rất đẹp. Có rất nhiều loại.$1"
+
+14532 : "Claire": "Em đã tập múa hoa để chuẩn bị cho ngày hôm nay.$6#$e#Um. Anh đã sẵn sàng chưa?$4"
+
+//LUAU
+
+14544 : "Claire": "%She's bị mất trong cơn mê."
+
+14552 : "Claire": "Hãy đến khiêu vũ với chị.$4#$e#Hehe!$7"
+
+//DANCE OF THE MOONLIGHT JELLIES
+
+14564 : "Claire": "Có phải chỉ chị không, hay là nó đang trở nên lạnh hơn ?$2#$e#Em nên xếp lớp nhiều hơn...$0",
+
+14572 : "Claire": "Có phải chỉ chị không, hay là nó đang trở nên lạnh hơn ?$2#$b#Em nên xếp lớp nhiều hơn...$0#$e#Có lẽ chúng ta có thể âu yếm nhau trên giường khi trở về...$5"
+
+//STARDEW VALLEY FAIR
+
+14548 : "Claire": "Những con gà mái này thật đáng yêu...$5#$e#Anh nói là chúng đến từ Trang trại của Marnie?$1",
+
+14592 : "Claire": "Khu trưng  bày của anh đã sẵn sàng chưa, anh yêu ?$1#$e#Đừng để ý đến em! Em chỉ ngưỡng mộ những con vật trong trang trại của Marnie.$5"
+
+//SPIRITS EVE FESTIVAL
+
+14604 : "Claire": "Nước ép nho làm thủ công này từ Blue Moon Vineyard thật hấp dẫn...$1",
+
+14612 : "Claire": "Phết bơ dê lên những quả bí ngô này sẽ mang lại cho chúng một hương vị ngon miệng.$5#$e#Anh trông đẹp tối nay...$1"
+
+//ICE FISHING FESTIVAL
+
+14624 : "Claire": "So... c-cold...$2"
+
+14632 : "Claire": "C-chào a-anh yêu. V-rất lạnh hôm nay...$2#$e#%You ôm Claire để sưởi ấm cho cô ấy.#$e#...$4#$b#Um. Chúc may mắn trong sự kiện câu cá trên băng.$7"
+
+//WINTER STAR FESTIVAL
+
+14645 : "Claire": "Anh thấy hài lòng vì điều gì, @?$1#$e#Em rất biết ơn vì đã có một cộng đồng thân thiện để tham gia Ngôi sao mùa đông cùng...$1"
+
+14654 : "Claire": "Morris muốn nhân viên Joja ở đây hôm nay...$0#$e#Lễ hội của thành phố anh thật tốt.$1"
+
+14663 : "Claire": "Thị trưởng của anh rất vui khi mời em...$1"
+
+14671 : "Claire": "Em biết ơn vì cuộc sống tuyệt vời mà chúng ta đang sống cùng nhau ở %farm...$1"
+
+ //Claire events
+
+//Claire 1/5 heart event
+
+
+
+
+
 

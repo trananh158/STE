@@ -215,3 +215,89 @@
 13989 : "funReturn_Claire": "Em có thể bị ốm...$2#$b#Em đã cảm thấy kinh khủng cả ngày.$2#$e#Em nghĩ mình sẽ thư giãn vào ngày mai...$0",
 
 13990 : "funLeave_Claire": "*Sigh*... Em cảm thấy không khỏe hôm nay.$2#$e#Em có thể đã bắt được một cái gì đó...$2#$e#Em cần phải sẵn sàng cho công việc...$2"
+
+13998 : "funReturn_Claire": "Em lo lắng khi anh đi đến mỏ...$2#$e#Em không thể mất anh...$2#$e#%You nói với Claire sẽ không có chuyện gì xấu xảy ra.#$e#En sẽ giữ anh cho điều đó...$1",
+
+13999 : "funLeave_Claire": "Anh có nghe thấy tiếng quạ bên ngoài không?...$0#$e#Em hy vọng chúng không mổ vào các cây trồng...$2"
+
+14007 : "funReturn_Claire": "Hãy nghỉ ngơi một chút đi anh yêu. Đó là một ngày trọng đại vào ngày mai.$1#$e#*yawn*...$5",
+
+14008 : "funLeave_Claire": "Anh đã chuẩn bị cho hội chợ thị trấn chưa ? Em biết anh đã làm việc chăm chỉ trong mùa giải này.$1#$e#Em tự hỏi sẽ có những con vật con nào..$5"
+
+14016 : "funReturn_Claire": "Em rửa bát và quét nhà khi đi làm về.$1#$e#Hôm nay em cảm thấy mình làm việc hiệu quả...$5",
+
+14017 : "funLeave_Claire": "Hôm nay sẽ rất tuyệt. Em có thể cảm nhận nó...$1"
+
+14025 : "funReturn_Claire": "Hôm nay em thấy một gia đình chim làm tổ trên cây.$5#$b#Phải có hàng chục người trong số chúng...$1",
+
+14026 : "funLeave_Claire": "Sáng nay trời thật mát mẻ.$0#$e#Và rất là lạnh...$2"
+
+14034 : "funReturn_Claire": "Anh có thể làm bữa tối nay được không? Em đang không muốn nấu ăn...$0",
+
+14035 : "funLeave_Claire": "Em đã uống một tách trà xanh sáng nay. Em cảm thấy tràn đầy năng lượng hơn nhiều.$1"
+
+14043 : "funReturn_Claire": "Em đã làm một món nấm từ thức ăn thô xanh trong rừng! Em nghĩ rằng nó đã diễn ra tốt.[205]$5#$e#Vậy anh nghĩ sao?$1",
+
+14044 : "funLeave_Claire": "Anh luôn dõi theo em. Nó rất đáng khích lệ...$1#$e#Làm ơn ... anh đang làm em đỏ mặt...$4"
+
+14052 : "funReturn_Claire": "Thời tiết trở nên lạnh hơn theo ngày...$0",
+
+14053 : "funLeave_Claire": "Buổi sáng tốt lành. Anh xoay sở để lăn ra khỏi giường...$1#$e#Ừm. Em sắp đi làm. Chúc một ngày làm việc hiệu quả.$1"
+
+14061 : "funReturn_Claire": "Em hy vọng anh cảm thấy đói! Bữa tối được phục vụ. [236 235]$5#$e#Anh có thích nó không ? Em đã làm sai một chút so với công thức...$1",
+
+14062 : "funLeave_Claire": "Em cảm thấy muốn nấu một cái gì đó lễ hội tối nay.$1#$e#Em sẽ làm anh ngạc nhiên...$5"
+
+14070 : "funReturn_Claire": "Anh đã xem báo cáo thời tiết chưa? Đêm nay trời có tuyết rơi...$0#$e#Ừm. Anh có phiền nếu chúng ta sử dụng thêm một chiếc chăn ?$2",
+
+14071 : "funLeave_Claire": "Chào buổi sán anh yêu. Em có pha cà phê cho anh. [395]$1"
+
+14079 : "funReturn_Claire": "Nó giống như đi bộ bên trong một tủ đông bên ngoài.$2#$e#Em rất vui vì đã trở về ngôi nhà ấm áp ... với anh.$4#$e#%You hug Claire to warm her.#$e#Hehe...$7",
+
+14080 : "funLeave_Claire": "Trận tuyết đêm qua bao phủ toàn bộ thung lũng. Nó thật đẹp đúng không ?$1"
+
+14088 : "funReturn_Claire": "Em không biết anh làm việc như thế nào ngoài trời lạnh thế này.$1",
+
+14089 : "funLeave_Claire": "*yawn* Chào buổi sáng.$1"
+
+14097 :  "funReturn_Claire": "Chào buổi sáng anh yêu$1",
+
+14098 : "funLeave_Claire": "Ồ, Anh có việc phải làm bên ngoài ư ? Đừng để bị cảm lạnh...$0"
+
+14106 : "funReturn_Claire": "sigh*... trời lạnh.$0#$e#Anh có phiền không nếu em vặn máy sưởi lên ?#$e#%You ôm lấy Claire để cô ấy có thể cẩm thấy ấm hơn.#$e#Hehe...$7",
+
+14107 : "funLeave_Claire": "Đầu giường của anh thật đáng yêu.$5#$e#Oh! Đã %time rồi ư? Em cần phải đi làm.$0"
+
+14115 : "funReturn_Claire": "Oh, đã là %time ư? Ngày hôm nay trôi qua thật nhanh...$0",
+
+14116 : "funLeave_Claire": "Em sẽ đi làm sớm. Anh sẽ làm gì hôm nay ?$0"
+
+14124 : "funReturn_Claire": "Cà phê espresso đó đã giúp em chú ý trong giờ học thể dục nhịp điệu hôm nay.$1",
+
+14125 : "funLeave_Claire": "Em cần một thứ gì đó mạnh mẽ để đánh thức bản thân, vì vậy em đã pha cà phê espressos ba lần. [253]$1"
+
+14133 : "funReturn_Claire": "Anh có thể nấu bữa tối được không ? Hôm nay em rất mệt mỏi...$0",
+
+14134 : "funLeave_Claire": "*yawn*... Em muốn chìm vào giấc ngủ trở lại.$2"
+
+14142 : "funReturn_Claire": "Em cảm thấy ốm và mệt mỏi vì lạnh quá...$2",
+
+14143 : "funLeave_Claire": "Em đã không ngủ ngon đêm qua...$2"
+
+14151 : "funReturn_Claire": "Em cảm thấy như mình có thể hiểu những gì động vật đang nghĩ khi em nhìn chúng...$1#$b#Em  tự hỏi liệu có một thuật sĩ hoặc phù thủy có thể nói chuyện với động vật không?$0#$e#Anh nói chuyện với thuật sĩ địa phương ... họ có thể hiểu động vật không ?$1",
+
+14152 : "funLeave_Claire": "Mùi của bữa sáng đã đánh thức anh ? Chà, thú vị đấy! [201 195 194 210 211]$5#$e#Em đã làm nó theo cách anh thích...$1"
+
+14160 : "funReturn_Claire": "Chúng ta sẽ sống trong thung lũng mãi mãi?$1#$e#Xin lỗi. Đó là một câu hỏi kỳ lạ để hỏi.$0#$e#%You cười với Claire.#$e#...$5",
+
+14161 : "funLeave_Claire": "Chào buổi sáng anh yêu.$1#$e#Um. Hôm nay em tăng ca nên em sẽ về muộn. Anh sẽ ăn tối mà không có em.$1"
+
+14169 : "funReturn_Claire": "Em đã trở thành bạn tốt với một số người trong lớp thể dục nhịp điệu hàng tuần của em.$1#$e#Um... Anh nên tham gia với em một lúc nào đó.$5",
+
+14170 : "funLeave_Claire": "Vào những ngày như thế này, em muốn uống trà xanh tươi và thư giãn.$1"
+
+14178 : "funReturn_Claire": "Em gần như trượt trên băng khi đi bộ về nhà...$2#$e#Hãy cẩn thận khi đi bộ bên ngoài.$2",
+
+14179 : "funLeave_Claire": "Em thích thức dậy vào sáng sớm, lắng nghe tiếng chim bắt đầu ngày mới.$1"
+
+

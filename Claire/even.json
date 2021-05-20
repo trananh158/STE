@@ -430,7 +430,7 @@
 
 //Claire 1/5 heart event
 
-
+14685 : "3219870/y 1/z fall/z winter/f Claire 50": "none/-500 -500/farmer -300 -300 0 Morris 24 26 3 Claire 9 25 1 Sam 2 21 2 Pam 6 15 1 Andy 25 16 3 Jodi 19 5 0/addTemporaryActor ShaneJoja 16 32 17 18 2/positionOffset Morris -3 -20/animate Sam false true 100 40 40 41 41 42 42 41 41/animate ShaneJoja false true 100 16 17 18 19 20 21 22 23 24 25 26 27/showFrame Claire 32/skippable/pause 800/playMusic Hospital_Ambient/pause 350/viewport 13 25 true/pause 2000/showFrame Claire 33 true/pause 700/shake Claire 500/pause 500/showFrame Claire 32 true/pause 700/speak Claire \"So... tired.$2#$b#Can't...keep my...eyes open.$2\"/pause 1100/shake Claire 400/pause 400/showFrame Claire 33/pause 1000/emote Claire 24/pause 500/playSound doorClose/warp farmer 13 29/pause 350/move farmer 0 -4 0/pause 850/faceDirection farmer 3 true/pause 650/move farmer -2 0 3/pause 1250/showFrame Claire 32 true/pause 850/showFrame Claire 4 true/emote Claire 16 true/pause 800/speak Claire \"O-oh! Apologies...$2#$b#Um. Welcome to Joja Mart.$0#$b#How may I help you?$1\"/pause 400/end dialogue Claire \"Please don't tell my manager I was dozing off on my shift...$2#$e#I'd get into a lot of trouble...$2\""
 
 
 

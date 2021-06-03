@@ -42,9 +42,15 @@
 
   //add conversation topics
 
-17776 : "claireAerobics": "Một người nào đo mới tham gia nhóm tập luyện hàng tuần.$1",
+17776 : "claireAerobics": "Một người nào đo mới tham gia nhóm tập nhảy.$1",
 
+17783 : "claireAerobics": "Cháu có biết Claire là ai không? Cô ấy tham gia lớp học thể dục nhịp điệu.$0#$e#Cô ấy thực sự có thể nhảy rất tốt!$1",
 
+17790 : "claireAerobics": "Chị cảm nhận được một một sự tò mò từ Claire. Cô ấy rấy có tiềm năng!$1",
 
+17798 : "claireAerobics": "Xin chào cháu. Cố một điều bất thường nhất đã xảy ra trong buổi tập thể dục nhịp điệu! Có một người mới tham gia!$3#$e#Tên cô ấy là Claire. Cô chắc chắn rằng cô ấy làm việc tại Joja Mart.$0",
 
-  
+17806 : "claireAerobics": "Xin chào cháu. Cố một điều bất thường nhất đã xảy ra trong buổi tập thể dục nhịp điệu! Có một người mới tham gia!$3#$e#Tên cô ấy là Claire. Cô chắc chắn rằng cô ấy làm việc tại rạp phim.$0",
+
+17813 : "claireAerobics": "Oh, @! Chúng cô vừa có một người mới trong các buổi tập luyện của mình!$0#$b#Cô ấy tên là Claire.#$b#Cháu có biết cố ấy chứ ? Cô ấy có vẻ rất nhút nhát khi muốn mở lời tham gia.$1#$b#Tôi nghĩ cô ấy sẽ sớm làm quen.$0",
+
